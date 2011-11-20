@@ -1,0 +1,62 @@
+
+/*================================================
+	===== General typography text color ====
+================================================*/
+h1, h3, #footer h5, span.hightlight, h5, .features_columns a, .features_columns a span, #form .overlayForm-wrap h2, #form .overlayForm-wrap .offer span, .offer span, .features a, .features a span { color:#3b5998; }
+.title { background: url(../images/ribbon1.png) no-repeat; }
+.title-center { background: url(../images/ribbon-bottom.png) no-repeat; }
+/*================================================
+	===== General typography text color ====
+================================================*/
+
+/*================================================
+	=====Header, Product Features Column and Social Share ====
+================================================*/
+h1.call-text span { color: #3b5998;}
+ul li.img1 { border:1px solid #3b5998;  }
+.action-btn a {  background: url(../images/app-button.png) no-repeat; line-height:60px; text-decoration:none;  text-shadow: 0px 1px 0px #a83333; }
+#outside-top-wrapper { border-top:4px solid #3b5998; }
+.tagline { color:#3b5998; letter-spacing:1px; padding: 3px 5px; font-family:lucida;font-style:italic;font-size:20px; text-shadow:1px 1px 0px #d4dae8; -moz-box-shadow:0px 1px 1px #d4dae8; -webkit-box-shadow:0px 1px 1px #d4da38; box-shadow:0px 1px 1px #d4dae8; }
+.call h5 { background:#3b5998; -moz-box-shadow:0px 1px 1px #a83333; -webkit-box-shadow:0px 1px 1px #a83333; box-shadow:0px 1px 1px #a83333; }
+
+.action-btn { background: url(../images/app-button.png) no-repeat; text-shadow:1px 1px 1px #a83333; }
+/*================================================
+	===== End Features Column and Social Share ====
+================================================*/
+
+
+/*================================================
+	===== Forms and image hovers ====
+================================================*/
+#overlayForm textarea:focus, #overlayForm input:focus { border: 1px solid #3b5998; }
+.intro-check ul li { background: url(../images/check.png) left center no-repeat; color:#3b5998; }
+.bottom-action { border-top:4px solid #3b5998; }
+#product ul.check li { background: url(../images/check.png) left center no-repeat; }
+.app-image li span.video { background:  url(../images/play.png) center no-repeat; }
+.app-image li span.video:hover { background:#fff url(../images/play.png) center no-repeat; }
+.app-image li span.zoom { background:  url(../images/zoom.png) bottom right no-repeat; }
+.app-image li span.zoom:hover { background:#fff url(../images/zoom.png) bottom right no-repeat; }
+.hover-zoom { background: #fff url(../images/small-zoom.png) center no-repeat; }
+#subscribe-footer textarea, #subscribe-footer input { border:1px solid #3b5998; }
+#overlayForm .submit-button { background: url(../images/register.png) no-repeat; }
+#subscribe-footer .subscribe-button { background:url(../images/subscribe.png) no-repeat; text-shadow: 0px 1px 1px #a83333;}
+.contact-form input.input-button { background:url(../images/contact-btn.png) no-repeat;text-shadow: 0px 1px 1px #a83333; }
+.contact-form textarea:focus, .contact-form input:focus { border:1px solid #3b5998; }
+/*================================================
+	===== End Forms and image hovers ====
+================================================*/
+
+/*================================================
+	===== Tabs Navigation color( also you need to change the ie file for the respective color (ex: red.css and ie-red.css, ie-red.css(more in the documentation file)  ====
+================================================*/
+/* active */
+ul.tab_nav li a.active { border: 1px solid #3b5998;  background:-moz-linear-gradient(top, #3b5998, #00ccff 25px ); background: -webkit-gradient(linear, left top, left 50, from(#3b5998), to(#00ccff)); text-shadow:0px 1px 0px #d4dae8; }
+/* active */
+
+/* hover */
+ul.tab_nav li a:hover { border: 1px solid #3b5998; background:-moz-linear-gradient(top, #3b5998, #00ccff 25px ); background: -webkit-gradient(linear, left top, left 50, from(#3b5998), to(#00ccff)); text-shadow:0px 1px 0px #d4dae8; }
+/* End hover */
+
+/*================================================
+	===== End Tabs Navigation color ====
+================================================*/
